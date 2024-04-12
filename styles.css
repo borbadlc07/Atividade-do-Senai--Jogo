@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #game-container {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  input[type="text"] {
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 8px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
